@@ -7,7 +7,7 @@ Little Utility to check, add or delete NVRAM Variables
 <img src="media/image_1.png" width="430" height="245">
 
 #
-<img src="media/image_2" width="430" height="245">
+<img src="media/image_2.png" width="430" height="245">
 
 #
-[Download](https://github.com/LAbyOne/SIP-Status/releases)
+[Download](https://github.com/LAbyOne/ToggleNvram/releases)
